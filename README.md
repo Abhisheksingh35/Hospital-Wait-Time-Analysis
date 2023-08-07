@@ -28,6 +28,7 @@ After a thorough analysis, we presented our findings through an intuitive and ae
 
 ### Actionable Steps:
 Based on our findings, we recommend the following actionable steps to address the wait time issues effectively:
+
 ➤ Prioritize Medicare Class Wait Times: Special attention should be given to reducing wait times for Medicare Class patients, as they experience longer waits compared to other patient classes.
 
 ➤ Strategic Staffing: Implement strategic staffing plans for Mondays and peak visiting hours to manage the influx of patients more efficiently.
